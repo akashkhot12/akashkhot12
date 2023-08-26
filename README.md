@@ -21,7 +21,7 @@
                       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="css3" width="75" height="75"/>
                       <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" alt="css3" width="75" height="75"/>
                       <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon-thumbnail.png" alt="figma" width="75" height="75"/> 
+                      <img src="https://www.nicepng.com/png/detail/274-2741860_jquery-in-easy-steps-create-dynamic-web-pages.png" alt="figma" width="75" height="75"/> 
                       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
