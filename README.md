@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="akash-khot.png" width="100%"/>
+  <img src="Akash-khot.png" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Akash khot</h1>
 <h3 align="center">A full stack developer from Bhandara, India</h3>
