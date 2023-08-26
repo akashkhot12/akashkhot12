@@ -1,47 +1,158 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akash khot
-==================================================================================================================================
+<div id="" align="center">
+  <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/>
+</div>
+<h1 align="center">Hi 👋, I'm Joe Santos Garcia</h1>
+<h3 align="center">A full stack developer from Tampa, FL</h3>
+<h4 align="center">Hi my name is Joe Santos Garcia a web developer based out of NYC. I've worked on web development for more than 10+ years. I have a successful youtube channel with over 80,000 subscribers who love the content I create about web development and over 50,000 students world wide in multiple platforms. My goal is to get all my students and subscribers to a level of being hired as a developer as soon as possible. </h4>
 
-Full stack developer
---------------------
-
-A Full-Stack Developer, like myself, is a versatile tech professional with expertise in both front-end and back-end web development. We are the architects of the digital world, responsible for creating dynamic, user-friendly, and robust web applications.
-
-* 🌍  I'm based in bhandara, India.
-* ✉️  You can contact me at [akashkhot03@gmail.com](mailto:akashkhot03@gmail.com)
-* 🚀  I'm currently working on [Whether Broadcast](http://github.com/akashkhot12/Weather-App/tree/main/Weather-app/src)
-* 🧠  I'm learning JQuery , Javascript , Angular , etc.
-
-<a href="https://www.github.com/akashkhot12" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/akashkhot12?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
+<hr>
 
 
-<p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+<!-- TECHS -->
+
+<h2 align="center">Skills</h2>
+
+<div align="center">
+                <br>
+                    <div align="center" >  
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
+			<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain-wordmark.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
+                      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
+                    </div>
+</div>
+
+<br>
+<hr>
+
+<!-- PROJECTS -->
+
+<h2 align="center">Projects</h2>
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center">Project 1</h3>
+				<div align="center">  
+					<a href='https://google.com' target="_blank">
+						<img src="https://github.com/codingphasedotcom/codingphasedotcom/blob/main/assets/project1.jpg?raw=true" alt="project 1" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/codingphasedotcom/nextjslanding" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://google.com" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>HTML, CSS, Javascript</strong></p>
+          <p>
+						Description goes here
+					</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center">Project 2</h3>
+				<div align="center" >  
+					<a href='https://codingphase.com' target="_blank">
+						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+					</p>
+					 <p><strong>HTML, CSS, Javascript</strong></p>
+					<p>Description goes here</p>
+				</div>
+        </tr>
+	    <tr>
+            <td width="50%">
+                <h3 align="center">Project 3</h3>
+                <div align="center" >  
+                    <a href='https://codingphase.com' target="_blank">
+                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 3" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>HTML, CSS, Javascript</strong></p>
+		    <p>Description goes here</p>
+                </div>
+            </td>
+            <td width="50%">
+                <h3 align="center">Project 4</h3>
+                <div align="center">  
+                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
+                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+                    </p>
+                    <p><strong>HTML, CSS, Javascript</strong></p>
+		    <p>Description goes here</p>
+                </div>	
+            </td>
+        </tr>
+	</table>
+</div>
+<br />
+<br />
+<hr>
+
+
+<!-- SOCIALS -->
+
+<h2 align="center">Contact Me</h2>
+<p align="center">
+	&nbsp&nbsp&nbsp
+	<a href="https://twitter.com/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://linkedin.com/in/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://instagram.com/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://www.youtube.com/c/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingphase" height="30" width="40" /></a>
 </p>
 
+<hr>
 
-### Socials
 
-<p align="left"> <a href="https://www.facebook.com/akash.khot.3975/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/akashkhot12" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/akashkhot12/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/akash-khot-b91076215/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<!-- STATS -->
+<div align="center" margin="100px 0 0 0">
 
-### Badges
+<h2 align="center">Stats</h2>
+<h6 style="color:red">These stats are only for public repos it don't show private stats on projects for previous employers and clients.</h6>
 
-<b>My GitHub Stats</b>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingphasedotcom&show_icons=true&locale=en&layout=compact" alt="codingphasedotcom" /></p>
 
-<a href="http://www.github.com/akashkhot12"><img src="https://github-readme-stats.vercel.app/api?username=akashkhot12&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="akashkhot12's GitHub stats" /></a>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingphasedotcom&show_icons=true&locale=en" alt="codingphasedotcom" /></p>
 
-<a href="http://www.github.com/akashkhot12"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akashkhot12&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/akashkhot12"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=akashkhot12&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/akashkhot12" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkhot12&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/akashkhot12/bootcoding_javascript" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akashkhot12&repo=bootcoding_javascript&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/akashkhot12/Angular" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akashkhot12&repo=Angular&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/akashkhot12/Strapi" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akashkhot12&repo=Strapi&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/akashkhot12/Weather-Broadcast" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akashkhot12&repo=Weather-Broadcast&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingphasedotcom&" alt="codingphasedotcom" /></p>
+</div>
+<br>
