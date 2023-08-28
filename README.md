@@ -41,17 +41,18 @@
 			<td width="50%">
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
-					<a href='https://google.com' target="_blank">
-						<img src="https://github.com/codingphasedotcom/codingphasedotcom/blob/main/assets/project1.jpg?raw=true" alt="project 1" height="100%" />
+					<a href='' target="_blank">
+						<img src="drumstick.png
+?raw=true" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/codingphasedotcom/nextjslanding" target="_blank">
+						<a href="https://github.com/akashkhot12/Drum_Kit_js.io" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://google.com" target="_blank">
-              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+              <img src="https://akashkhot12.github.io/Drum_Kit_js.io/">
 						</a>
 					</p>
 					<p><strong>HTML, CSS, Javascript</strong></p>
