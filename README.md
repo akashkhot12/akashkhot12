@@ -15,17 +15,17 @@
 <div align="center">
                 <br>
                     <div align="center" >  
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
-			<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="css3" width="75" height="75"/>
-                      <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" alt="css3" width="75" height="75"/>
-                      <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://icons-for-free.com/download-icon-jquery+icon-1320185152994214115_512.png" alt="figma" width="75" height="75"/> 
-                      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
-                      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="gulp" width="75" height="75"/>
-                      <img src="https://static-00.iconduck.com/assets.00/mongodb-icon-512x512-mhzq0108.png" alt="mongodb" width="75" height="75"/> 
-                      <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" alt="mysql" width="75" height="75"/> 
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> 
+			<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="65" height="65"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="65" height="65"/>
+                      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="css3" width="65" height="65"/>
+                      <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" alt="css3" width="65" height="65"/>
+                      <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="css3" width="65" height="65"/>
+                      <img src="https://icons-for-free.com/download-icon-jquery+icon-1320185152994214115_512.png" alt="figma" width="65" height="65"/> 
+                      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/> 
+                      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="gulp" width="65" height="65"/>
+                      <img src="https://static-00.iconduck.com/assets.00/mongodb-icon-512x512-mhzq0108.png" alt="mongodb" width="65" height="65"/> 
+                      <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" alt="mysql" width="65" height="65"/> 
                     </div>
 </div>
 
