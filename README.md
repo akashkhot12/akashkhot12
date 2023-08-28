@@ -118,7 +118,7 @@
 						</a>	
                     </p>
                     <p><strong>HTML, CSS, Bootstarp</strong></p>
-		    <p>Find your solumates in the Dog.</p>
+		    <p>Find your soulmate in the Dog.</p>
                 </div>	
             </td>
         </tr>
