@@ -39,7 +39,7 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center">Project 1</h3>
+				<h3 align="center">DRUM KIT</h3>
 				<div align="center">  
 					<a href='' target="_blank">
 						<img src="drumstick.png" alt="project 1" height="100%" />
@@ -56,7 +56,7 @@
 					</p>
 					<p><strong>HTML, CSS, Javascript</strong></p>
           <p>
-						Description goes here
+						Press the given keys and enjoy the music !!
 					</p>
 				</div>
 			</td>
