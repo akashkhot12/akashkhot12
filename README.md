@@ -25,7 +25,7 @@
                       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
                       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="gulp" width="75" height="75"/>
                       <img src="https://static-00.iconduck.com/assets.00/mongodb-icon-512x512-mhzq0108.png" alt="mongodb" width="75" height="75"/> 
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
+                      <img src="https://png.pngtree.com/svg/20170919/node_db_mysql__767789.png" alt="mysql" width="75" height="75"/> 
                     </div>
 </div>
 
