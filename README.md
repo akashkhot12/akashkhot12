@@ -25,7 +25,7 @@
                       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
                       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="gulp" width="75" height="75"/>
                       <img src="https://static-00.iconduck.com/assets.00/mongodb-icon-512x512-mhzq0108.png" alt="mongodb" width="75" height="75"/> 
-                      <img src="https://p1.hiclipart.com/preview/64/828/885/mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-png-clipart.jpg" alt="mysql" width="75" height="75"/> 
+                      <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" alt="mysql" width="75" height="75"/> 
                     </div>
 </div>
 
