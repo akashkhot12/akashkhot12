@@ -42,8 +42,7 @@
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
 					<a href='' target="_blank">
-						<img src="drumstick.png
-?raw=true" alt="project 1" height="100%" />
+						<img src="drumstick.png" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
