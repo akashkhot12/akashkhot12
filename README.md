@@ -77,7 +77,7 @@
 						</a>	
 					</p>
 					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>Its a weather broadcast app which gives weather update about city </p>
+					<p>Weather broadcast app which gives weather update about city. </p>
 				</div>
         </tr>
 	    <tr>
@@ -97,7 +97,7 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
+                    <p><strong>HTML, CSS, Javascript, Angular, API, Typescript</strong></p>
 		    <p>Description goes here</p>
                 </div>
             </td>
