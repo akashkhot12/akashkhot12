@@ -61,10 +61,10 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Project 2</h3>
+				<h3 align="center">WEATHER BROADCAST</h3>
 				<div align="center" >  
-					<a href='https://codingphase.com' target="_blank">
-						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
+					<a href='' target="_blank">
+						<img src="weatherApp.png" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
