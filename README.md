@@ -56,7 +56,7 @@
 					</p>
 					<p><strong>HTML, CSS, Javascript</strong></p>
           <p>
-						Press the given keys and enjoy the music !!
+						Press the given keys and enjoy the music.
 					</p>
 				</div>
 			</td>
@@ -117,8 +117,8 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>HTML, CSS, Bootstarp</strong></p>
+		    <p>Find your solumates in the Dog.</p>
                 </div>	
             </td>
         </tr>
