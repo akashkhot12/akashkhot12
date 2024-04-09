@@ -2,7 +2,7 @@
   <img src="Akash-khot.png" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Akash khot</h1>
-<h3 align="center">A full stack developer from Bhandara, India</h3>
+<h3 align="center">A full stack developer from Nagpur, India</h3>
 <h4 align="center">A Full-Stack Developer, like myself, is a versatile tech professional with expertise in both front-end and back-end web development. We are the architects of the digital world, responsible for creating dynamic, user-friendly, and robust web applications. </h4>
 
 <hr>
